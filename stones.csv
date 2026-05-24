@@ -1,1 +1,13 @@
 stone_id,title,shape,carat,color,clarity,lab,report_number,price_rub,karo_score,tag1,tag2,tag3,tag4,tag5,tag6,current_status,batch_number,upload_date,supplier_name,show_in_catalog,is_mvp_eligible,has_lab_document,physically_received,checked_by_kurgin,upload_confirmed,notes_internal
+KRG-TST-001,Round 1.05 G VVS1,Round,1.05,G,VVS1,IGI,LG000001,32200,95,огонь,блеск,баланс,элит,,,available,P-0001,2026-05-24,Хоней,True,True,True,True,True,True,uploaded_xlsx
+KRG-TST-002,Round 1.51 E VS1,Round,1.51,E,VS1,IGI,LG000002,58500,86,блеск,баланс,,,,,available,P-0001,2026-05-24,Хоней,True,True,True,True,True,True,uploaded_xlsx
+KRG-TST-003,Round 1.0 F VS2,Round,1.0,F,VS2,IGI,LG000003,34900,77,баланс,,,,,,available,P-0001,2026-05-24,Хоней,True,True,True,True,True,True,uploaded_xlsx
+KRG-TST-004,Round 1.22 D VVS2,Round,1.22,D,VVS2,IGI,LG000004,41800,92,огонь,блеск,,,,,available,P-0001,2026-05-24,Хоней,True,True,True,True,True,True,uploaded_xlsx
+KRG-TST-005,Round 1.74 F VS1,Round,1.74,F,VS1,IGI,LG000005,67900,89,блеск,цена,,,,,available,P-0001,2026-05-24,Хоней,True,True,True,True,True,True,uploaded_xlsx
+KRG-TST-006,Round 2.03 G VS2,Round,2.03,G,VS2,IGI,LG000006,88400,84,баланс,крупный,,,,,available,P-0001,2026-05-24,Хоней,True,True,True,True,True,True,uploaded_xlsx
+KRG-TST-007,Round 2.41 E VVS1,Round,2.41,E,VVS1,IGI,LG000007,126300,99,огонь,блеск,элит,,,,available,P-0001,2026-05-24,Хоней,True,True,True,True,True,True,uploaded_xlsx
+KRG-TST-008,Oval 1.2 F VS1,Oval,1.2,F,VS1,IGI,LG000008,45200,0,овал,баланс,,,,,available,P-0001,2026-05-24,Хоней,True,True,True,True,True,True,uploaded_xlsx
+KRG-TST-009,Pear 1.32 H VS2,Pear,1.32,H,VS2,IGI,LG000009,39800,0,капля,,,,,,available,P-0001,2026-05-24,Хоней,True,True,True,True,True,True,uploaded_xlsx
+KRG-TST-010,Cushion 1.8 G VS1,Cushion,1.8,G,VS1,IGI,LG000010,72400,0,кушон,крупный,,,,,available,P-0001,2026-05-24,Хоней,True,True,True,True,True,True,uploaded_xlsx
+KRG-TST-011,Round 0.9 E VVS2,Round,0.9,E,VVS2,IGI,LG000011,0,94,проверка,,,,,,available,P-0001,2026-05-24,Хоней,True,True,True,True,True,True,uploaded_xlsx
+KRG-TST-012,Round 3.01 F VS1,Round,3.01,F,VS1,IGI,LG000012,178000,96,огонь,блеск,крупный,элит,,,available,P-0001,2026-05-24,Хоней,True,True,True,True,True,True,uploaded_xlsx
