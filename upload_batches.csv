@@ -1,1 +1,2 @@
-batch_number,upload_date,supplier_name,stones_count,document_name,document_path,upload_confirmed,notes
+batch_number,upload_date,supplier_name,stones_count,upload_confirmed,notes
+P-0001,2026-05-24,Хоней,12,True,
