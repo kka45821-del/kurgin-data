@@ -1,1 +1,1 @@
-stone_id,title,shape,carat,color,clarity,lab,report_number,price_rub,karo_score,current_status,batch_number,upload_date,supplier_name,show_in_catalog,is_mvp_eligible,has_lab_document,physically_received,checked_by_kurgin,upload_confirmed,notes_internal
+stone_id,title,shape,carat,color,clarity,lab,report_number,price_rub,karo_score,tags,current_status,batch_number,upload_date,supplier_name,show_in_catalog,is_mvp_eligible,has_lab_document,physically_received,checked_by_kurgin,upload_confirmed,notes_internal
