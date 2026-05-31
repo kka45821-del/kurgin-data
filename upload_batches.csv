@@ -1,5 +1,5 @@
-batch_number,upload_date,supplier_name,stones_count,upload_confirmed,notes
-P-0001,2026-05-26,пробный,174,True,пробная загрузка
-P-0002,2026-05-26,пробный,174,True,
-P-0003,2026-05-26,проб,174,True,
-P-0004,2026-05-30,4,32,True,4
+batch_number,upload_date,supplier_name,stones_count,upload_confirmed,notes,purchase_total_rub,purchase_advance_rub,purchase_debt_rub
+P-0001,2026-05-26,пробный,174,True,пробная загрузка,0.0,0.0,0.0
+P-0002,2026-05-26,пробный,174,True,,0.0,0.0,0.0
+P-0003,2026-05-26,проб,174,True,,0.0,0.0,0.0
+P-0004,2026-05-31,1,32,True,1,5000.0,500.0,4500.0
