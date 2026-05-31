@@ -1,13 +1,14 @@
 {
   "source": "KURGIN Admin",
-  "updated_at": "2026-05-31T00:00:00Z",
+  "updated_at": "2026-05-31T16:59:04Z",
   "count": 0,
   "schema": {
-    "version": "catalog_mvp_v2",
+    "version": "catalog_mvp_v3",
     "score_public_name": "KURGIN Score",
     "score_field": "karo_score",
     "includes_full_catalog_fields": true,
-    "section_autofill": true
+    "section_autofill": true,
+    "empty_snapshot": true
   },
   "stones": []
 }
