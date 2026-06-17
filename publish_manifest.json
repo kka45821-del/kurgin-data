@@ -1,14 +1,14 @@
 {
   "blocker_count": 0,
-  "created_at": "2026-06-17T10:55:42",
+  "created_at": "2026-06-17T12:21:59",
   "data_problem_count": 0,
   "export_file": "public_stones_v1.csv",
-  "export_hash": "f4d56055790734d453c396e457a6bb3169d92c008abe79e6ad3aaa504dcd537d",
-  "export_sha256": "f4d56055790734d453c396e457a6bb3169d92c008abe79e6ad3aaa504dcd537d",
-  "is_empty_export": true,
-  "manifest_sha256": "ecf9eafe24569752eb40d778315a700230fc5e777d6d61d1944252661107c13c",
+  "export_hash": "bfc8b15c2a0ba8ed96620453282f1a48fa2bcc2bd20ff0fca2328e2526050083",
+  "export_sha256": "bfc8b15c2a0ba8ed96620453282f1a48fa2bcc2bd20ff0fca2328e2526050083",
+  "is_empty_export": false,
+  "manifest_sha256": "3edc52abb405387b3ae0184a0de2634f1883490a08babc00622dd45543eb5d86",
   "notes": "Manual controlled publish package. Not auto-synced.",
-  "numeric_count": 0,
+  "numeric_count": 1,
   "package_files": [
     "public_stones_v1.csv",
     "publish_manifest.json",
@@ -17,13 +17,13 @@
   ],
   "package_version": "publish_package_v1",
   "price_on_request_count": 0,
-  "publish_checks_sha256": "272cde0e500d2afb3820eade474c177861030fb3f2bc7c030352c883fbdfc227",
+  "publish_checks_sha256": "24a8cdbc7ede17886e9f35c1a6328ca8765e76bb53ba53ff50a29d40e5b916e4",
   "published_at": "",
   "published_by": "",
-  "requires_empty_export_confirmation": true,
-  "row_count": 0,
+  "requires_empty_export_confirmation": false,
+  "row_count": 1,
   "schema_version": "public_stones_v1",
   "source_app": "kurgin-admin-mvp",
   "source_checkpoint": "Checkpoint 33 — Stage 8A Manual Publish Package",
-  "warning_count": 1
+  "warning_count": 0
 }
