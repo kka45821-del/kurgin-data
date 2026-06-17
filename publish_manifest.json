@@ -1,0 +1,29 @@
+{
+  "blocker_count": 0,
+  "created_at": "2026-06-17T10:55:42",
+  "data_problem_count": 0,
+  "export_file": "public_stones_v1.csv",
+  "export_hash": "f4d56055790734d453c396e457a6bb3169d92c008abe79e6ad3aaa504dcd537d",
+  "export_sha256": "f4d56055790734d453c396e457a6bb3169d92c008abe79e6ad3aaa504dcd537d",
+  "is_empty_export": true,
+  "manifest_sha256": "ecf9eafe24569752eb40d778315a700230fc5e777d6d61d1944252661107c13c",
+  "notes": "Manual controlled publish package. Not auto-synced.",
+  "numeric_count": 0,
+  "package_files": [
+    "public_stones_v1.csv",
+    "publish_manifest.json",
+    "publish_checks.json",
+    "README_MANUAL_PUBLISH.md"
+  ],
+  "package_version": "publish_package_v1",
+  "price_on_request_count": 0,
+  "publish_checks_sha256": "272cde0e500d2afb3820eade474c177861030fb3f2bc7c030352c883fbdfc227",
+  "published_at": "",
+  "published_by": "",
+  "requires_empty_export_confirmation": true,
+  "row_count": 0,
+  "schema_version": "public_stones_v1",
+  "source_app": "kurgin-admin-mvp",
+  "source_checkpoint": "Checkpoint 33 — Stage 8A Manual Publish Package",
+  "warning_count": 1
+}
